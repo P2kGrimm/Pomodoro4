@@ -1,4 +1,6 @@
 node_modules/
-pomodoro-app/
-som_notificacao.mp3
+*.sqlite
 .env
+som_notificacao.mp3
+pomodoro-app/
+pomodoro-app/database.sqlite

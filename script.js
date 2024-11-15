@@ -95,6 +95,7 @@ if (localStorage.getItem("tema") === "dark") {
   document.body.classList.add("dark-mode");
 }
 
+
 function tocarNotificacao() {
   const somNotificacao = document.getElementById("notificacao-som");
   somNotificacao.play();
